@@ -5,12 +5,12 @@ Norms are a key topic in machine learning. In this repo I aim to simplify and vi
 
 ### L1 Norm
 
-<img src="https://github.com/ae20cg/norms/blob/main/norm_plots/l1norm.png" width="200" height="200">
+<img src="https://github.com/ae20cg/norms/blob/main/norm_plots/l1norm.png" width="400" height="400">
 
 ### L2 Norm
 
-<img src="https://github.com/ae20cg/norms/blob/main/norm_plots/l2norm.png" width="200" height="200">
+<img src="https://github.com/ae20cg/norms/blob/main/norm_plots/l2norm.png" width="400" height="400">
 
 ### Infinity Norm
 
-<img src="https://github.com/ae20cg/norms/blob/main/norm_plots/infnorm.png" width="200" height="200">
+<img src="https://github.com/ae20cg/norms/blob/main/norm_plots/infnorm.png" width="400" height="400">
