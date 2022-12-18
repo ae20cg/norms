@@ -4,7 +4,7 @@ Norms are a key topic in machine learning. In this repo I aim to simplify and vi
 
 
 ### L1 Norm
-![2-D L1 Norm Visual](https://github.com/ae20cg/norms/blob/main/norm_plots/infnorm.png)
+![2-D L1 Norm Visual](https://github.com/ae20cg/norms/blob/main/norm_plots/l1norm.png)
 
 ### L2 Norm
 ![2-D L2 Norm Visual](https://github.com/ae20cg/norms/blob/main/norm_plots/l2norm.png)
